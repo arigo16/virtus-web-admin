@@ -1,0 +1,169 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/0.ac6486f6e27cf8d4f70a.js",
+        "/1.2d27edd564a73d9fa6d6.js",
+        "/10.d465778de0be446c7cc5.js",
+        "/11.a06f9247634fc3f574da.js",
+        "/12.6723ba6c9264afaafc15.js",
+        "/13.7dbd1a5aa0247dbd592a.js",
+        "/14.81b57f4dfae84fa0abeb.js",
+        "/15.5a455b4049fb630caccd.js",
+        "/16.9160e5a91820feca5ebf.js",
+        "/17.57ab890a37e043305491.js",
+        "/6.5f81380d68a462a3d625.js",
+        "/7.0090876c591a7401c2e1.js",
+        "/8.ef51085b736212bbaf58.js",
+        "/9.5397959038fb6c1d4530.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.8aee0ae40ad7cdab9b65.js",
+        "/polyfills.47ead9d05df48749afb7.js",
+        "/runtime.d31ed0fb0ce68a88a395.js",
+        "/styles.25f68fe7e3211c901ded.css"
+      ],
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/.*"
+      ]
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icons/flags/tr.png",
+        "/assets/icons/flags/us.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/material-icons/outline/fonts/material-outline-icons.svg",
+        "/assets/icons/material-icons/outline/fonts/material-outline-icons.ttf",
+        "/assets/icons/material-icons/outline/fonts/material-outline-icons.woff",
+        "/assets/icons/material-icons/outline/style.css",
+        "/assets/icons/meteocons/Read Me.txt",
+        "/assets/icons/meteocons/demo-files/demo.css",
+        "/assets/icons/meteocons/demo-files/demo.js",
+        "/assets/icons/meteocons/demo.html",
+        "/assets/icons/meteocons/fonts/meteocons.svg",
+        "/assets/icons/meteocons/fonts/meteocons.ttf",
+        "/assets/icons/meteocons/fonts/meteocons.woff",
+        "/assets/icons/meteocons/selection.json",
+        "/assets/icons/meteocons/style.css",
+        "/assets/images/avatar/no-avatar.jpeg",
+        "/assets/images/backgrounds/background-blue.jpeg",
+        "/assets/images/flags/us.png",
+        "/assets/images/icons/menu/icon-dashboard.svg",
+        "/assets/images/icons/menu/icon-data.svg",
+        "/assets/images/icons/menu/icon-theme.svg",
+        "/assets/images/logos/logo-splash.png",
+        "/assets/images/logos/logo-virtus.png",
+        "/assets/images/no-content/no-image.png",
+        "/assets/images/payment/paytren.png",
+        "/assets/images/payment/transfer-manual.png",
+        "/assets/images/store/app-store.gif",
+        "/assets/images/store/google-play.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "api-freshness",
+      "patterns": [
+        "http:\\/\\/localhost:9084\\/.*"
+      ],
+      "strategy": "freshness",
+      "maxSize": 20,
+      "maxAge": 3600000,
+      "timeoutMs": 10000,
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "/0.ac6486f6e27cf8d4f70a.js": "25208d08f6e0e8a92934fcc7b21138ccd3d99ec4",
+    "/1.2d27edd564a73d9fa6d6.js": "6207c16a41d49a16fda8b888e9c79bf3aac2a1ee",
+    "/10.d465778de0be446c7cc5.js": "81391d6294773cf991cbd2c674dec14b6dda7bd2",
+    "/11.a06f9247634fc3f574da.js": "a851a39ad5240706ed370a243b6a0819de6e38b2",
+    "/12.6723ba6c9264afaafc15.js": "b9d483b301d0c465cd7300b5732dc8d95d1e633e",
+    "/13.7dbd1a5aa0247dbd592a.js": "424f4a06dc7314c9e5db60a35816cb44edde8739",
+    "/14.81b57f4dfae84fa0abeb.js": "18e67ff2c4c02fefdfca6cbd336d24cd59f5b6c1",
+    "/15.5a455b4049fb630caccd.js": "6f0b47fed86515209966bacdbe4b7325661c345c",
+    "/16.9160e5a91820feca5ebf.js": "b42086f69796602db27be1e41c7cea806149b75a",
+    "/17.57ab890a37e043305491.js": "fef975e8f46b3b7a018da29e641111de1c6ad0e1",
+    "/6.5f81380d68a462a3d625.js": "a0d1b03fbf9149d88c9dec13e976a9013e0b6289",
+    "/7.0090876c591a7401c2e1.js": "e7f275261a1a33af43e8f78bb8d7f0e08468ba6e",
+    "/8.ef51085b736212bbaf58.js": "519aeb1def5cd4e88d7489f6f1e94232c6eaf864",
+    "/9.5397959038fb6c1d4530.js": "db73681cb1f0efe08041814ce500d717d65583d9",
+    "/assets/icons/flags/tr.png": "e1821d04141354bfdeb2e25e488ac8a7face8900",
+    "/assets/icons/flags/us.png": "dd9e149e2b5ad59dd8b4b262f5fdeb5cc10ecf43",
+    "/assets/icons/icon-128x128.png": "26c33aef4feb9bf36deab93167cbcaae4f3d2d30",
+    "/assets/icons/icon-144x144.png": "ab3848ae436c9270fe21f851e7b04d05428343d9",
+    "/assets/icons/icon-152x152.png": "3b53f15acd52606e0dc07b6f558808256585a5b7",
+    "/assets/icons/icon-192x192.png": "3757bfa25d6e9115a9d4be79ac04347983464c82",
+    "/assets/icons/icon-384x384.png": "1cba869fdcf6c53038115afa541c3c2b50e8f6b4",
+    "/assets/icons/icon-512x512.png": "9b34f8124ff68e79f7018430b0b0ee3eb37c2c84",
+    "/assets/icons/icon-72x72.png": "6e77252b542ca5238cb411027c5ee2a8f51ba55e",
+    "/assets/icons/icon-96x96.png": "77e982ef098eb40ccbf75476e31019c5ca7d878f",
+    "/assets/icons/material-icons/outline/fonts/material-outline-icons.svg": "2a1b59d2df7ab534871a59eaf4f3f12408bdbd87",
+    "/assets/icons/material-icons/outline/fonts/material-outline-icons.ttf": "c6c03160f21a4b7fb3636af08b1cb80d4f6be3c1",
+    "/assets/icons/material-icons/outline/fonts/material-outline-icons.woff": "f15ed79081c35cc862d89805048ebdf3ebba1043",
+    "/assets/icons/material-icons/outline/style.css": "d0fd30b857fcb1bb971df94f30d9cc2610974c46",
+    "/assets/icons/meteocons/Read Me.txt": "59f2046b2874381564e1bb8706b011c9705b0bd4",
+    "/assets/icons/meteocons/demo-files/demo.css": "ccab03bde045b0fb5cd7c6d19575b638a07d06fc",
+    "/assets/icons/meteocons/demo-files/demo.js": "8452d97a6f469bf7e832c72e2bd47050cf75401e",
+    "/assets/icons/meteocons/demo.html": "14b29ae053e446f0ddfc417f07c059f9d84f9d34",
+    "/assets/icons/meteocons/fonts/meteocons.svg": "07f1120dd729efa5f31e4336671f19d84068c66a",
+    "/assets/icons/meteocons/fonts/meteocons.ttf": "8a9a87e9d1d47bdda706efd86ad754a9f69dab4a",
+    "/assets/icons/meteocons/fonts/meteocons.woff": "cca3eeed0790ea9283bfec670c39d6ac298dd2c4",
+    "/assets/icons/meteocons/selection.json": "9bf3484474b2fb215a35c09824ec1a48a979e2db",
+    "/assets/icons/meteocons/style.css": "008b30c3e51da801aac7269184d50bc0782c03c9",
+    "/assets/images/avatar/no-avatar.jpeg": "07ee07753f3753f39ddd84cb747cd44b7cc0dc75",
+    "/assets/images/backgrounds/background-blue.jpeg": "b9bc5881baf24f6f5fa8180bf457149c0258e613",
+    "/assets/images/flags/us.png": "dd9e149e2b5ad59dd8b4b262f5fdeb5cc10ecf43",
+    "/assets/images/icons/menu/icon-dashboard.svg": "8fbc36ba5fc87a10737628f66b5fafe7f1209a8c",
+    "/assets/images/icons/menu/icon-data.svg": "123d5b45e88ab93a82378bd8561851f066a8394a",
+    "/assets/images/icons/menu/icon-theme.svg": "81642f810064258a216cf3718031721ed67754f0",
+    "/assets/images/logos/logo-splash.png": "e4606008abc474e0be4175a61cf1ff26707731e9",
+    "/assets/images/logos/logo-virtus.png": "b7e046a22fffe69dba8a264b129e8cf34d6fe60e",
+    "/assets/images/no-content/no-image.png": "00d58eb87cc9057f82d6f957883de4d40dbea4a4",
+    "/assets/images/payment/paytren.png": "76de27790b0fbef70ecdd496c0ac59bef1269822",
+    "/assets/images/payment/transfer-manual.png": "85fd49c32a11a347440dd99d0b2ffd9a8e07457a",
+    "/assets/images/store/app-store.gif": "2f55fdd4925d15adb522f4f998e0d50f66f03d5f",
+    "/assets/images/store/google-play.png": "42c89d9b3363322d6d1fa4ed871d80b63dca1b99",
+    "/favicon.ico": "489ee2f89e1f18de4db57288ab963b118b62fbc9",
+    "/index.html": "fa3a20c008f103edf0b85efdc5f3651c76ff88ba",
+    "/main.8aee0ae40ad7cdab9b65.js": "f3f418af6e0f572484b4e6d6a452aa2c22b9fda5",
+    "/polyfills.47ead9d05df48749afb7.js": "5bcda4dd5494df4d7e5dbb05bc1a511e36ba0204",
+    "/runtime.d31ed0fb0ce68a88a395.js": "c86efb5104e48b06aff9c9c6250c360cb9df8107",
+    "/styles.25f68fe7e3211c901ded.css": "57c9c0404547c072d19efd6cbb50f0348ee0798c"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
